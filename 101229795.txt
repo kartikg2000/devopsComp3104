@@ -1,1 +1,1 @@
-ECHO is on.
+My stu-id is 101229795
